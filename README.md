@@ -1,2 +1,2 @@
 # rus_hyphenation
-the script to hyphenate a text
+rewrite script https://vyachet.ru/hyphen-russian-html-text/ in python
